@@ -17,8 +17,8 @@
             <email>ExemploDeEmail@gmail.com</email>
             <msn>Jose.S</msn>
             <skype>Jose.S</skype>
-            <tipocontato tipo="Pessoal " />
-            <tipocontato tipo="Comercial " />
+            <tipocontato tipo="pessoal " />
+            <tipocontato tipo="comercial " />
         </contato>
 
         <!-- Contato 2-->
@@ -31,8 +31,8 @@
             <email>ExemploDeEmail2@gmail.com</email>
             <msn>Amanda.S</msn>
             <skype>Amanda.S</skype>
-            <tipocontato tipo="Pessoal " />
-            <tipocontato tipo="Comercial " />
+            <tipocontato tipo="pessoal " />
+            <tipocontato tipo="comercial " />
         </contato>
     </inicialA>
 
@@ -49,8 +49,8 @@
             <email>ExemploDeEmail3@gmail.com</email>
             <msn>Bamacedo.S</msn>
             <skype>Bamacedo.S</skype>
-            <tipocontato tipo="Pessoal " />
-            <tipocontato tipo="Comercial " />
+            <tipocontato tipo="pessoal " />
+            <tipocontato tipo="comercial " />
         </contato>
     </inicialB>
 </agenda>

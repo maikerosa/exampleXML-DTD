@@ -13,4 +13,4 @@
 <!ELEMENT msn (#PCDATA)>
 <!ELEMENT skype (#PCDATA)>
 <!ELEMENT tipocontato (#PCDATA)>
-<!ATTLIST tipocontato tipo CDATA #REQUIRED>
+<!ATTLIST tipocontato tipo (pessoal | comercial) #REQUIRED>
