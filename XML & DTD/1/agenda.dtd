@@ -4,7 +4,7 @@
 <!ATTLIST inicialB letra CDATA #REQUIRED>
 <!ELEMENT inicialB (contato*)>
 <!ELEMENT contato (nome, telefone+, endereco, email, msn, skype, tipocontato+)>
-<!ATTLIST contato id CDATA #REQUIRED>
+<!ATTLIST contato id ID #REQUIRED>
 <!ELEMENT nome (#PCDATA)>
 <!ELEMENT telefone (#PCDATA)>
 <!ATTLIST telefone tipo CDATA #REQUIRED>
