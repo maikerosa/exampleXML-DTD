@@ -38,7 +38,7 @@
     <inicialB letra="B">
 
         <!-- Contato 1-->
-        <contato id="CT01">
+        <contato id="CT03">
             <nome> Bamacedo  Rocha da Silva</nome>
             <telefone tipo="res.">000-000-000</telefone>
             <telefone tipo="trab.">000-000-000</telefone>
